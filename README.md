@@ -90,6 +90,7 @@ This fork adds:
 
 ## Change History
 
+- **0.2.4** - 2026-03-17 - Consolidate instruction files into CLAUDE.md
 - **0.2.3** (2025-01-08) - Enhanced by Simon Mason
   - Added schedule reading (workingTime, pauseTime, intensity)
   - Added API Tester device support
